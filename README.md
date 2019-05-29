@@ -1,0 +1,2 @@
+# phpmd
+Custom PHPMD rulesets
