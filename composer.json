@@ -1,0 +1,13 @@
+{
+    "name": "fkupper/phpmd",
+    "description": "Custom rulesets for PHPMD",
+    "require": {
+        "phpmd/phpmd": "^2.6"
+    },
+    "authors": [
+        {
+            "name": "Fernando Kupper Cardoso",
+            "email": "fernando@kupper.com.br"
+        }
+    ]
+}
